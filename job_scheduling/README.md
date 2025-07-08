@@ -16,6 +16,11 @@ The scripts used to run the simulations are the following:
 |_ generate_simulation_logs.sh
 ```
 
+_Details on how to run all the scripts and a description of all configuration options can be found in the `documentation` folder in the root of the repo._
+
+
+### Steps
+
 **1. Dowload log files** from: [https://reports.alcf.anl.gov/data/index.html](https://reports.alcf.anl.gov/data/index.html).
 In our example, the files are stored in the `original_logs` folder.
 
